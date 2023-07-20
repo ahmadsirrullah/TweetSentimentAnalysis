@@ -11,5 +11,5 @@ The code for the analysis can be found in the "code" folder, consisting of four 
 2. "Preprocessing.ipynb": Code for preprocessing the tweets.
 3. "Visualization.ipynb": Code for creating visualizations.
 4. "Modelling_with_IndoBERTweet.ipynb": Code for modeling using the Neural Network IndoBERTweet.
-5. 
+
 The data from crawling and labeling can be found in the data folder.
